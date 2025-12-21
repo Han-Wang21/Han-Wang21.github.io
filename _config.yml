@@ -23,7 +23,7 @@ repository               : "Han-Wang21/Han-Wang21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Myphoto.jpg"
+  avatar           : "Myphoto.png"
   name             : "Han Wang"
   pronouns         : # example: "she/her"  
   bio              : "a PhD student from Tsinghua University"
