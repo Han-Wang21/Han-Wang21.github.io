@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2024-04-speed-change-exclusion
 excerpt: 'This paper is about the quantitative hydrodynamic limit of speed-change exclusion process.'
-date: 2024-04
+date: 2024-04-18
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/pdf/2404.12234'
