@@ -3,7 +3,7 @@ title: "Quantitative homogenization and hydrodynamic limit of non-gradient exclu
 collection: publications
 category: preprints
 venue: arXiv
-excerpt: 'This paper is about the quantitative hydrodynamic limit of speed-change exclusion process.'
+excerpt: 'This paper is joint with Tadahisa Funaki and Chenlin Gu.'
 date: 2024-04-18
 link: 'https://arxiv.org/pdf/2404.12234'
 ---
