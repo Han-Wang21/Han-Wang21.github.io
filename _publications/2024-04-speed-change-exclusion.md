@@ -2,6 +2,7 @@
 title: "Quantitative homogenization and hydrodynamic limit of non-gradient exclusion process"
 collection: publications
 category: preprints
+venue: arXiv
 excerpt: 'This paper is about the quantitative hydrodynamic limit of speed-change exclusion process.'
 date: 2024-04-18
 link: 'https://arxiv.org/pdf/2404.12234'
